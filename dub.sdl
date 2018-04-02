@@ -1,0 +1,5 @@
+name "libzfs"
+description "Bindings for libzfs"
+authors "Laeeth Isharc"
+copyright "Copyright © 2018, Laeeth Isharc"
+license "CDDL"
